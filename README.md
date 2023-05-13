@@ -5,8 +5,8 @@ This assesment was done with the objective to complete the 'Data Engineer and Re
   On it, exercise was about to complete 6 taskes in order to create a professional Data Base using tools like 'Python',
 'SQL' & 'Google APIs'. And completing the data base product using tools as 'Looker Data Studio' & 'Tableau' to give full body
 for the analytics of a BPO.  
-
-  First, a random data base on google sheets was created using https://www.mockaroo.com/ taking in mind BPOs KPIs as:
+  
+  First, a random data base on google sheets was created using https://www.mockaroo.com/ taking in mind BPOs KPIs as:  
       *date           *country
       *interactions   *team_lead
       *channel        *status
