@@ -15,6 +15,7 @@ for the analytics of a BPO.
       *id
       *full_name
       *email
+  
   It is important to highlight main KPIs from BPO suggested, these are:
       *As fictitious company, name chosen was: #CAT CHOOSE
       *Coaching completion for Agents
